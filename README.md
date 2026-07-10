@@ -38,6 +38,13 @@ My approach is based on:
 
 Here you can find academic projects, automation scripts, Raspberry Pi services and tools related to networking, security and system integration.
 
+## 🧩 What I can bring
+
+- Technical problem solving on real-world systems
+- Experience with CCTV, access control and IP networking
+- Ability to bridge software, electronics and field support
+- Interest in robotics, automation, cybersecurity and high-tech systems
+
 ## 📫 Contacts
 * **LinkedIn:** [Emanuele Rapisardi](http://www.linkedin.com/in/emanuele-rapisardi-a02844235)
 * **Photography Portfolio:** [Emanuele Rapisardi Photography](https://emanuelerapisardi.altervista.org/)
