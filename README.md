@@ -10,7 +10,7 @@ My background combines software development, electronics, networking and field-o
 - CCTV and access control system design
 - IP networking and technical troubleshooting
 - Linux, Windows, virtual machines and Raspberry Pi
-- Backend scripting and automation with Python
+- Python scripting and automation
 - C, C++, Java and web technologies
 - Databases: MySQL, MariaDB, PostgreSQL
 - Cybersecurity labs, network analysis and system hardening
