@@ -21,22 +21,19 @@ My background combines software development, electronics, networking and field-o
 I like understanding how systems work end-to-end: from hardware and network configuration to software logic and user-facing tools.
 
 My approach is based on:
+
 - analysing the problem before applying a solution;
 - breaking complex systems into smaller components;
 - testing, documenting and validating each step;
 - improving reliability, maintainability and security.
 
-## 🚀 Current interests
+## 📌 What I build
 
-- Robotics and microcontrollers
-- Cybersecurity and network security
-- Automation tools
-- Technical support tools for real-world systems
-- Backend development and Linux-based services
+I like building practical tools that connect software, electronics and real-world technical problems.
 
-## 📌 Featured projects
+My projects usually focus on automation, Linux systems, Raspberry Pi services, networking, CCTV/access control support, cybersecurity labs and embedded systems.
 
-Here you can find academic projects, automation scripts, Raspberry Pi services and tools related to networking, security and system integration.
+I am especially interested in solutions that help collect information, diagnose issues, automate repetitive tasks and make technical systems easier to monitor, understand and maintain.
 
 ## 🧩 What I can bring
 
@@ -46,5 +43,6 @@ Here you can find academic projects, automation scripts, Raspberry Pi services a
 - Interest in robotics, automation, cybersecurity and high-tech systems
 
 ## 📫 Contacts
+
 * **LinkedIn:** [Emanuele Rapisardi](http://www.linkedin.com/in/emanuele-rapisardi-a02844235)
 * **Photography Portfolio:** [Emanuele Rapisardi Photography](https://emanuelerapisardi.altervista.org/)
