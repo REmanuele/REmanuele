@@ -1,48 +1,28 @@
-# Hi, I'm Emanuele 👋
+# Emanuele Maria Rapisardi
 
-I'm a Computer Science student at the University of Catania, currently close to completing my Bachelor's Degree.
+**CCTV & access-control technical support | IP networking | Python projects**
 
-I work in the Technical Office at CAME.COM S.R.L., where I deal with the design of CCTV and access control systems, providing pre-sales and post-sales technical support.  
-My background combines software development, electronics, networking and field-oriented problem solving.
+I work with IP networks, CCTV and access-control systems, including equipment compatibility, preliminary sizing and technical troubleshooting. I also build small Python tools and document Linux lab projects to make technical checks more repeatable and easier to review.
 
-## 🔧 What I work with
+## Selected projects
 
-- CCTV and access control system design
-- IP networking and technical troubleshooting
-- Linux, Windows, virtual machines and Raspberry Pi
-- Python scripting and automation
-- C, C++, Java and web technologies
-- Databases: MySQL, MariaDB, PostgreSQL
-- Cybersecurity labs, network analysis and system hardening
-- Microcontrollers, robotics and embedded systems
+| Project | What it demonstrates |
+| --- | --- |
+| [CCTV Network Planner](https://github.com/REmanuele/cctv-network-planner) | Python CLI for preliminary estimates of CCTV bandwidth, recording storage and PoE power. Includes input validation and automated tests; estimates do not replace system design. |
+| [Field Service Diagnostic Toolkit](https://github.com/REmanuele/field-service-diagnostic-toolkit) | Read-only Linux diagnostics for system resources, connectivity, DNS and `systemd`, with text reports, tests and an optional privacy-oriented `--redact` mode. Reports still require review before sharing. |
+| [Home Server Infrastructure](https://github.com/REmanuele/home-server-infrastructure) | Documented *local* Docker Compose lab with Caddy, PostgreSQL and Redis, plus networking, backup and security notes. Not a production deployment. |
+| [Sea SUP Forecast Bot](https://github.com/REmanuele/sea-sup-forecast-bot) | Python Telegram bot combining weather and marine forecasts for an informational SUP conditions score. Handles missing data and uses UTC timestamps; **not a maritime safety tool**. |
 
-## 🧠 Technical approach
+## Technical areas
 
-I like understanding how systems work end-to-end: from hardware and network configuration to software logic and user-facing tools.
+- **Systems and networks:** Linux (Ubuntu/Debian), TCP/IP, DNS, SSH, troubleshooting, IP CCTV and PoE.
+- **Scripting:** Python CLI tools, automation, Git and automated tests.
+- **Labs and infrastructure:** Docker Compose, Caddy, network segmentation, WireGuard and backup documentation.
+- **Electronics and IoT:** Raspberry Pi, ESP32 and MQTT in study/personal-project contexts.
 
-My approach is based on:
+I try to document assumptions, test edge cases and make limitations explicit rather than present a laboratory example as a production-ready system.
 
-- analysing the problem before applying a solution;
-- breaking complex systems into smaller components;
-- testing, documenting and validating each step;
-- improving reliability, maintainability and security.
+## Elsewhere
 
-## 📌 What I build
-
-I like building practical tools that connect software, electronics and real-world technical problems.
-
-My projects usually focus on automation, Linux systems, Raspberry Pi services, networking, CCTV/access control support, cybersecurity labs and embedded systems.
-
-I am especially interested in solutions that help collect information, diagnose issues, automate repetitive tasks and make technical systems easier to monitor, understand and maintain.
-
-## 🧩 What I can bring
-
-- Technical problem solving on real-world systems
-- Experience with CCTV, access control and IP networking
-- Ability to bridge software, electronics and field support
-- Interest in robotics, automation, cybersecurity and high-tech systems
-
-## 📫 Contacts
-
-* **LinkedIn:** [Emanuele Rapisardi](http://www.linkedin.com/in/emanuele-rapisardi-a02844235)
-* **Photography Portfolio:** [Emanuele Rapisardi Photography](https://emanuelerapisardi.altervista.org/)
+- [LinkedIn](https://www.linkedin.com/in/emanuele-rapisardi-a02844235/)
+- [Photography portfolio](https://emanuelerapisardi.altervista.org/)
